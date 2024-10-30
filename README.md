@@ -1,3 +1,6 @@
+###Fork from the original project with updated pi versions supporting Raspberry Pi 4b 
+
+
 *DEPRECATED LIBRARY* Adafruit Python DHT Sensor Library
 =======================
 
